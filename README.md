@@ -1,6 +1,6 @@
-# phonegap-splash
+# THIS REPO IS NO LONGER MAINTAINED.
 
-phonegap-splash has been abandoned in favour of phonegap-res. phonegap-res can generate both icons and splash screens. Please move forward with phonegap-res. Thank you!
+Please use: https://github.com/AlexDisler/cordova-icon and https://github.com/AlexDisler/cordova-splash
 
 # phonegap-res
 
